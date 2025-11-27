@@ -5,5 +5,7 @@
 - I’m looking to collaborate on open sources or proprietry projects 
 - you can reach me on "abdalrhman.alryah@linux.com"
 
+reach out participate or access projects on private repositories
+
 
 
