@@ -1,5 +1,5 @@
 - 👋 
-- I am a data architect, data engineer, ai builder, Software Engineer, interested in Data Engineering, and AI. 
+- I am a data and  AI architect, data engineer, AI builder, Software Engineer, interested in Data Engineering, and AI. 
 - I’m currently working as a Lead data engineer,  design and building modern data and ai systems.
 - I am building Flamingo, a complete data analytics platform 
 - I’m looking to collaborate on open sources or proprietry projects 
